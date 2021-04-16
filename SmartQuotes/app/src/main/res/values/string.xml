@@ -1,0 +1,9 @@
+<resources>
+    <string name="save_button">Save</string>
+    <string name="et_person_name">Name of the Person</string>
+    <string name="year_of_birth">Year of birth</string>
+    <string name="year_of_death">Year of death</string>
+    <string name="inspiring_quote">Inspiring quote</string>
+    <string name="photo_path">Add Image URL</string>
+    <string name="add_new_person">Add new person</string>
+   </resources>
