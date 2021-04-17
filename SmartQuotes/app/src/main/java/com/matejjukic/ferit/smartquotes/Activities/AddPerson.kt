@@ -10,7 +10,7 @@ class AddPerson : AppCompatActivity() {
 
     private lateinit var addPersonBinding: AddPersonBinding
 
-       fun OnCreate(savedInstanceState: Bundle?) {
+     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         addPersonBinding = AddPersonBinding.inflate(layoutInflater)
         setContentView(addPersonBinding.root)
